@@ -12,7 +12,7 @@ I am a developer focusing on software development, 3D design, and visual effects
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-### 🌐 Connect with Me
+### 🌐 Contact with Me
 
 <div align="left">
   <a href="https://discord.gg/gCHnRgt7Ev" target="_blank">
